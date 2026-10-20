@@ -69,4 +69,4 @@ Released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Kal** — [GitHub](https://github.com/vishalharel9) · [LinkedIn](www.linkedin.com/in/vishal-harel-54aa76324)
+**Vishalharel9** — [GitHub](https://github.com/vishalharel9) · [LinkedIn](www.linkedin.com/in/vishal-harel-54aa76324)
